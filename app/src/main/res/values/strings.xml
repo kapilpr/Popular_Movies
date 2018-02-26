@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="error_message">No Internet Connection</string>
+    <string name="action_sort_popular">Most Popular</string>
+    <string name="action_sort_rating">Highest Rated</string>
+    <string name="movie_detail_activity">Movie Details</string>
+    <string name="tv_string_movie_detail_rating">Rating:</string>
+    <string name="tv_string_movie_detail_release_date">Release Date:</string>
+    <string name="action_add_favorite">Add To Favorites</string>
+    <string name="action_remove_favorite">Remove From Favorites</string>
+    <string name="action_sort_favorites">My Favorites</string>
+    <string name="no_movie_message">No Favorite Movies to Display</string>
+    <string name="tv_trailers">trailers</string>
+    <string name="tv_reviews">reviews</string>
+    <string name="no_trailers_available">No Trailers Available</string>
+    <string name="no_reviews_available">No Reviews Available</string>
+</resources>
