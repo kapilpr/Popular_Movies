@@ -8,4 +8,4 @@ Highest-Rated
 
 My Favourites
      
-Each movie's description window will provide plot synopsis, user rating, release Date, view and watch trailers and read reviews
+Each movie's description window will provide plot synopsis, user rating, release date, view and watch trailers and read reviews
