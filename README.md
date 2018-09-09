@@ -1,4 +1,5 @@
-# Popular_Movies
+# Popular Movies
+![popular_movies-1](https://user-images.githubusercontent.com/30549956/45268862-89ed5200-b438-11e8-8979-bb99acd0d029.jpg)
 This app will allow users to discover the most popular movies playing. 
 Features include a grid arrangement of the movie posters and a sort order via a setting for
 
